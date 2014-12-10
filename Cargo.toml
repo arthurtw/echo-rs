@@ -1,0 +1,11 @@
+[package]
+
+name = "echo"
+version = "0.0.1"
+authors = ["Arthur Liao <arthurtw8@gmail.com>"]
+
+description = "Macro echo! for println!(\"{}\"...) shorthand"
+readme = "README.md"
+license = "MIT"
+
+repository = "https://github.com/arthurtw/echo"
