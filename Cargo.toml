@@ -8,4 +8,4 @@ description = "Macro echo! for println!(\"{}\"...) shorthand"
 readme = "README.md"
 license = "MIT"
 
-repository = "https://github.com/arthurtw/echo"
+repository = "https://github.com/arthurtw/echo-rs"
